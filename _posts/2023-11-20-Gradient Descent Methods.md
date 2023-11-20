@@ -12,7 +12,7 @@ mermaid: true
 ---
 
 ### **(stochastic) gradient descent (SGD)**
-- learning rate를 적절히 잡는 것이 어려움
+- learning rate를 적절히 잡는 것이 어려움   
 $$
 W_{t+q} \gets W_t - \eta g_t
 $$
