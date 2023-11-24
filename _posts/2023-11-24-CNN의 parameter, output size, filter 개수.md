@@ -12,16 +12,21 @@ math: true
 ---
 
 ### **Parameter 개수**   
+i = input channels   
+k = filter size   
+o = output channels   
 $$
-((input channels) * (filter size)^2 + 1) * (output channels)
+(i * k^2 + 1) * o
 $$   
 
 ### **output size**   
+i = input size   
+k = filter size   
+p = padding size   
+s = stride
 $$
-\frac{(input size) - (filter size) + 2(padding size)}{stride} + 1
+\frac{i - k + 2p}{s} + 1
 $$   
 
 ### **filter 개수**   
-$$
 output channels
-$$   
