@@ -7,8 +7,8 @@ date: 2023-11-20 21:00:00 +0900
 categories: [DL, DL Basic]
 tags: [Gradient Descent Methods, SGD,Momentum, RMSprop, Adam]     # TAG names should always be lowercase
 math: true
-comments: true
-mermaid: true
+# comments: true
+# mermaid: true
 ---
 
 ### **(stochastic) gradient descent (SGD)**
