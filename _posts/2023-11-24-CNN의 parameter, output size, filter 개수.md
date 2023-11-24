@@ -11,12 +11,17 @@ math: true
 # mermaid: true
 ---
 
-### **Parameter 개수**
+### **Parameter 개수**   
 $$
 ((input channels) * (filter size)^2 + 1) * (output channels)
-$$
+$$   
 
-### **output size**
+### **output size**   
 $$
 \frac{(input size) - (filter size) + 2(padding size)}{stride} + 1
+$$   
+
+### **filter 개수**   
 $$
+output channels
+$$   
