@@ -7,7 +7,7 @@ git submodule update --remote
  
 # `hugo -t <테마명>` 명령어로 Hugo 정적 페이지 렌더링
 # `--gc` 옵션은 `garbage collection` 을 의미하며 불필요한 페이지를 삭제
-hugo -t Book --gc
+hugo -t hugo-book-jouhy --gc
  
 # `source` 브랜치로 이동
 cd public
@@ -21,7 +21,7 @@ fi
 git commit -m "$msg"
  
 # 빌드 결과를 `source` 브랜치에 반영
-git push origin source
+git push origin main
  
 # `main` 브랜치로 이동
 cd ..

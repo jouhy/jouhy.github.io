@@ -1,6 +1,5 @@
 ---
 title: "About Me"
-<!-- date: 2025-12-08 -->
 menu: "main"     # 메인 메뉴에 포함
 ---
 <br></br>
