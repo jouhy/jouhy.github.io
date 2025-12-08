@@ -1,0 +1,85 @@
+baseURL: "https://jouhy.github.io/"
+title: "Jouhy's blog"
+description: "안녕하세요. 개발블로그입니다."
+theme: "hugo-book-jouhy"
+languageCode: "ko-kr"
+
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  author: "jouhy"
+  # author: ["Me", "You"] # multiple authors
+  keywords: ["jouhy", "Blog", "AI", "ComputerScience", "CS", "블로그"]
+
+  favicon: "/images/favicon.ico"
+  images:
+    - "/images/profile/opengraph.jpg"
+
+  assets:
+    favicon: "/images/favicons/favicon.ico"
+    favicon16x16: "/images/favicons/favicon-16x16.png"
+    favicon32x32: "/images/favicons/favicon-32x32.png"
+    apple_touch_icon: "/images/favicons/apple-touch-icon.png"
+    safari_pinned_tab: "/images/favicons/apple-touch-icon.png"
+
+  BookMenu:
+    backgrounImage: "/images/profile/sidebar_background.jpg"
+    profileImage: "/images/profile/menu.jpg"
+    githubLink: "https://github.com/jouhy"
+    LinkedinLink: "https://www.linkedin.com/in/juhee-sung-2330101bb"
+    EmailLink: "mailto:ethda111@gmail.com"
+    categoriesLabel: "전체"
+    recentPosts: true
+
+  BookComments:
+    enable: true
+    disqusShortname: "jouhy"
+
+  GoogleAnalytics:
+    tagId: ""
+
+  SearchEngine:
+    google:
+      SiteVerificationTag: ""
+    naver:
+      SiteVerificationTag: ""
+    # bing:
+    #   SiteVerificationTag: "XYZabc"
+    # yandex:
+    #   SiteVerificationTag: "XYZabc"
+
+  schema:
+    publisherType: "Person"
+    sameAs:
+      - ""
+
+  social:
+    twitter: ""
+
+markup:
+  goldmark:
+    extensions:
+      typographer:
+        disable: true
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    codeFences: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+
+permalinks:
+  posts: "/blog/:slugorcontentbasename/"
+
+ignoreFiles: ["_page.md", "README.md"]
