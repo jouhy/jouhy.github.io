@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 menu: "main"     # 메인 메뉴에 포함
+date: "2025-12-09T16:00:00+09:00"
 ---
 <br></br>
 # <center>Hi👋, I'm Jouhy!</center>
