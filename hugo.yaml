@@ -32,7 +32,6 @@ params:
     safari_pinned_tab: "/images/favicons/apple-touch-icon.png"
 
   BookMenu:
-    backgrounImage: "/images/profile/sidebar_background.jpg"
     profileImage: "/images/profile/menu.jpg"
     githubLink: "https://github.com/jouhy"
     LinkedinLink: "https://www.linkedin.com/in/juhee-sung-2330101bb"
