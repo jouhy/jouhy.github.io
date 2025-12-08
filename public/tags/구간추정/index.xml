@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>구간추정 on Jouhy&#39;s blog</title>
+    <link>http://localhost:1313/tags/%EA%B5%AC%EA%B0%84%EC%B6%94%EC%A0%95/</link>
+    <description>Recent content in 구간추정 on Jouhy&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 14 Oct 2025 16:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%EA%B5%AC%EA%B0%84%EC%B6%94%EC%A0%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[수리통계] 통계적 추론</title>
+      <link>http://localhost:1313/blog/2025-10-22-%ED%86%B5%EA%B3%84%EC%A0%81%EC%B6%94%EB%A1%A0/</link>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2025-10-22-%ED%86%B5%EA%B3%84%EC%A0%81%EC%B6%94%EB%A1%A0/</guid>
+      <description>&lt;h2 id=&#34;통계적-추론&#34;&gt;통계적 추론&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%ed%86%b5%ea%b3%84%ec%a0%81-%ec%b6%94%eb%a1%a0&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;표본 데이터를 분석해 모집단의 관심있는 모수(parameter)에 관한 결론을 이끌어 내는 것&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;통계적 추론의 불확실성&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;모집단 모수에 관한 어떠한 추론도 모집단 전체가 아닌 표본에 근거하기 때문에 어느정도의 불확실성을 내포&lt;/li&gt;&#xA;&lt;li&gt;추론이 의미를 가지기 위해서는 불확실성의 정도를 나타내야한다.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

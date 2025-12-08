@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>네트워크 기기 on Jouhy&#39;s blog</title>
+    <link>http://localhost:1313/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EA%B8%B0/</link>
+    <description>Recent content in 네트워크 기기 on Jouhy&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 11 Aug 2025 16:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EA%B8%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[네트워크] 네트워크 기기</title>
+      <link>http://localhost:1313/blog/2025-08-27-cs_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC2/</link>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2025-08-27-cs_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC2/</guid>
+      <description>&lt;p&gt;&lt;em&gt;본 게시글은 [면접을 위한 CS 전공지식 노트]를 기반으로 개인 학습 내용을 정리한 글입니다.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;네트워크-기기&#34;&gt;네트워크 기기&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac-%ea%b8%b0%ea%b8%b0&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;네트워크-기기의-처리범위&#34;&gt;네트워크 기기의 처리범위&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac-%ea%b8%b0%ea%b8%b0%ec%9d%98-%ec%b2%98%eb%a6%ac%eb%b2%94%ec%9c%84&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;상위 계층을 처리하는 기기는 하위계층을 처리할 수 있다.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;애플리케이션 계층 : L7 스위치&lt;/li&gt;&#xA;&lt;li&gt;인터넷 계층 : 라우터, L3 스위치&lt;/li&gt;&#xA;&lt;li&gt;데이터 링크 계층 : L2 스위치, 브리지&lt;/li&gt;&#xA;&lt;li&gt;물리 계층 : NIC, 리피터, AP&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;애플리케이션-계층을-처리하는-기기&#34;&gt;애플리케이션 계층을 처리하는 기기&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%ea%b3%84%ec%b8%b5%ec%9d%84-%ec%b2%98%eb%a6%ac%ed%95%98%eb%8a%94-%ea%b8%b0%ea%b8%b0&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;스위치란&lt;br&gt;&#xA;여러 장비를 연결, 데이터 통신을 중재, 목적지가 연결된 포트로만 전기 신호를 보내 데이터를 전송하는 통신 네트워크 장비&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>네트워크 기초 on Jouhy&#39;s blog</title>
+    <link>http://localhost:1313/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88/</link>
+    <description>Recent content in 네트워크 기초 on Jouhy&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 11 Aug 2025 16:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[네트워크] 네트워크 기초</title>
+      <link>http://localhost:1313/blog/2025-08-11-cs_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC1/</link>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2025-08-11-cs_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC1/</guid>
+      <description>&lt;p&gt;&lt;em&gt;본 게시글은 [면접을 위한 CS 전공지식 노트]를 기반으로 개인 학습 내용을 정리한 글입니다.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;네트워크-기초&#34;&gt;네트워크 기초&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac-%ea%b8%b0%ec%b4%88&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;네트워크란&#34;&gt;네트워크란&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac%eb%9e%80&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;노드(node)와 링크(link)가 서로 연결되어 있으며, 리소스를 공유하는 집합&lt;br&gt;&#xA;여러 개의 장치가 서로 연결되어 데이터를 주고 받을 수 있도록 구성된 시스템&lt;br&gt;&#xA;노드 : 서버, 라우터, 스위치 등 네트워크 장치&lt;br&gt;&#xA;링크 : 유선 또는 무선&lt;/p&gt;&#xA;&lt;h3 id=&#34;처리량과-지연시간&#34;&gt;처리량과 지연시간&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%ec%b2%98%eb%a6%ac%eb%9f%89%ea%b3%bc-%ec%a7%80%ec%97%b0%ec%8b%9c%ea%b0%84&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;좋은 네트워크란, 많은 처리량 처리 &amp;amp; 짧은 지연시간 &amp;amp; 적은 장애 빈도 &amp;amp; 좋은 보안을 갖춘 네트워크&lt;/p&gt;&#xA;&lt;p&gt;처리량 (Throughput) : 링크 내에서 일정 시간 동안 &lt;strong&gt;성공적&lt;/strong&gt;으로 전달된/전달가능한 데이터의 양, 얼만큼의 트래픽을 처리했는지&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

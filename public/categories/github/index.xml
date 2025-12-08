@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github on Jouhy&#39;s blog</title>
+    <link>http://localhost:1313/categories/github/</link>
+    <description>Recent content in Github on Jouhy&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 05 Dec 2023 16:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub 정리</title>
+      <link>http://localhost:1313/blog/2023-12-05-github-%EC%A0%95%EB%A6%AC/</link>
+      <pubDate>Tue, 05 Dec 2023 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2023-12-05-github-%EC%A0%95%EB%A6%AC/</guid>
+      <description>&lt;h1 id=&#34;github&#34;&gt;GitHub&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#github&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;버전 관리 시스템&lt;/strong&gt;으로 버전, 백업, 협업을 위한 툴!&lt;br&gt;&#xA;버전 관리의 본질은 원본을 수정하지 않고 원본의 복제본을 만들어 수정하는 것이다.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;git version check&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;book-codeblock&#34; data-lang=&#34;&#34;&gt;&#xA;  &lt;div class=&#34;code-actions&#34;&gt;&#xA;&#xA;    &lt;button class=&#34;code-copy-btn code-action&#34; onclick=&#34;copyCode(this)&#34;&gt;&#xA;      &lt;i class=&#34;fa-solid fa-copy&#34;&gt;&lt;/i&gt;Copy&#xA;    &lt;/button&gt;&#xA;&#xA;    &lt;span class=&#34;code-language code-action&#34;&gt;text&lt;/span&gt;&#xA;&#xA;  &lt;/div&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git --version&#xA;git -v&#xA;git version&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;git config list&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;book-codeblock&#34; data-lang=&#34;&#34;&gt;&#xA;  &lt;div class=&#34;code-actions&#34;&gt;&#xA;&#xA;    &lt;button class=&#34;code-copy-btn code-action&#34; onclick=&#34;copyCode(this)&#34;&gt;&#xA;      &lt;i class=&#34;fa-solid fa-copy&#34;&gt;&lt;/i&gt;Copy&#xA;    &lt;/button&gt;&#xA;&#xA;    &lt;span class=&#34;code-language code-action&#34;&gt;text&lt;/span&gt;&#xA;&#xA;  &lt;/div&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git config --list&#xA;git config user.name&#xA;# 등등&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;로컬저장소 생성&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;여기서 생성되는 .git 파일이 저장소&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;book-codeblock&#34; data-lang=&#34;&#34;&gt;&#xA;  &lt;div class=&#34;code-actions&#34;&gt;&#xA;&#xA;    &lt;button class=&#34;code-copy-btn code-action&#34; onclick=&#34;copyCode(this)&#34;&gt;&#xA;      &lt;i class=&#34;fa-solid fa-copy&#34;&gt;&lt;/i&gt;Copy&#xA;    &lt;/button&gt;&#xA;&#xA;    &lt;span class=&#34;code-language code-action&#34;&gt;text&lt;/span&gt;&#xA;&#xA;  &lt;/div&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git init&#xA;# 로컬 저장소에 원격저장소를 알려줌&#xA;git remote add origin &amp;lt;url&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;주소 url를 다 기억할수없어서 origin이라고 불러줌(별명)&lt;/li&gt;&#xA;&lt;li&gt;지역저장소에 여러개 원격저장소를 연결할수있음&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;remote tracking branch이라고 어디까지 서버로 했는지 확인할 수 있다.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>메모리 on Jouhy&#39;s blog</title>
+    <link>http://localhost:1313/tags/%EB%A9%94%EB%AA%A8%EB%A6%AC/</link>
+    <description>Recent content in 메모리 on Jouhy&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 11 Aug 2025 16:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%EB%A9%94%EB%AA%A8%EB%A6%AC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[운영체제] 컴퓨터 요소와 메모리</title>
+      <link>http://localhost:1313/blog/2025-09-04-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C1/</link>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2025-09-04-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C1/</guid>
+      <description>&lt;p&gt;&lt;em&gt;본 게시글은 [면접을 위한 CS 전공지식 노트]를 기반으로 개인 학습 내용을 정리한 글입니다.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;운영체제와-컴퓨터&#34;&gt;운영체제와 컴퓨터&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%ec%9a%b4%ec%98%81%ec%b2%b4%ec%a0%9c%ec%99%80-%ec%bb%b4%ed%93%a8%ed%84%b0&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;운영체제 : 하드웨어와 소프트웨어(유저 프로그램)를 관리&lt;br&gt;&#xA;컴퓨터 요소 : CPU, 메모리 등&lt;/p&gt;&#xA;&lt;h3 id=&#34;운영체제의-역할과-구조&#34;&gt;운영체제의 역할과 구조&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%ec%9a%b4%ec%98%81%ec%b2%b4%ec%a0%9c%ec%9d%98-%ec%97%ad%ed%95%a0%ea%b3%bc-%ea%b5%ac%ec%a1%b0&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;운영체제 역할&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;CPU 스케줄링과 프로세스 관리&lt;/li&gt;&#xA;&lt;li&gt;메모리 관리&lt;/li&gt;&#xA;&lt;li&gt;디스크 파일 관리&lt;/li&gt;&#xA;&lt;li&gt;I/O 디바이스 관리&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;운영체제 구조&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;유저 프로그램&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;인터페이스 (GUI, CUI)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;시스템콜&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;커널&lt;br&gt;(드라이버, 파일 시스템 등)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;하드웨어&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;운영체제 : GUI, 시스템콜, 커널, 드라이버&lt;/p&gt;&#xA;&lt;details&gt;&#xA;    &lt;summary&gt;&lt;span style=&#34;color: #adb5db;&#34;&gt;용어&lt;/span&gt;&lt;/summary&gt;&#xA;    &lt;ul&gt;&#xA;        &lt;li&gt;GUI : 사용자가 전자장치와 상호 작용할 수 있도록 하는 사용자 인터페이스의 한 형태, 단순 명령어 창이 아닌 아이콘을 마우스로 클릭하는 단순한 동작으로 컴퓨터와 상호 작용할 수 있도록 해준다.&lt;/li&gt;&#xA;        &lt;li&gt;드라이버 : 하드웨어를 제어하기 위한 소프트웨어&lt;/li&gt;&#xA;        &lt;li&gt;CUI : 그래픽이 아닌 명령어로 처리하는 인터페이스&lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;&lt;/details&gt;&#xA;&lt;p&gt;&lt;strong&gt;시스템콜&lt;/strong&gt;&lt;br&gt;&#xA;운영체제가 커널에 접근하기 위한 인터페이스, 유저 프로그램이 운영체제의 서비스를 받기 위해 커널 함수를 호출할 때 사용&lt;br&gt;&#xA;유저 프로그램이 I/O 요청으로 트랩(trap)을 발동하면 올바른 I/O 요청인지 확인 후 유저 모드가 시스템콜을 통해 커널 모드로 변환되어 실행됨&lt;br&gt;&#xA;-&amp;gt; 컴퓨터 자원에 대한 직접 접근 차단&lt;br&gt;&#xA;-&amp;gt; 프로그램을 다른 프로그램으로부터 보호&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

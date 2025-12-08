@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>팩토리 패턴 on Jouhy&#39;s blog</title>
+    <link>http://localhost:1313/tags/%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%8C%A8%ED%84%B4/</link>
+    <description>Recent content in 팩토리 패턴 on Jouhy&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Thu, 07 Aug 2025 17:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%8C%A8%ED%84%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[CS] 디자인 패턴</title>
+      <link>http://localhost:1313/blog/2025-08-07-cs_%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/</link>
+      <pubDate>Thu, 07 Aug 2025 17:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/blog/2025-08-07-cs_%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/</guid>
+      <description>&lt;p&gt;&lt;em&gt;본 게시글은 [면접을 위한 CS 전공지식 노트]를 기반으로 개인 학습 내용을 정리한 글입니다.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;디자인-패턴&#34;&gt;&lt;strong&gt;디자인 패턴&lt;/strong&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;프로그램을 설계할때 반복적으로 발생했던 문제점들을 효율/효과적으로 해결하기 위한 하나의 &amp;quot;규약&amp;quot; 형태로 만들어 놓은 것&lt;br&gt;&#xA;= &lt;strong&gt;재사용 가능&lt;/strong&gt;한 설계 지침/방법&lt;/p&gt;&#xA;&lt;p&gt;&amp;lt;주요 특징&amp;gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;문제 해결의 모범 사례 : 다양한 개발 현장에서 검증된 문제 해결 전략 (동일 문제가 반복될 때 일관적으로 사용 가능)&lt;/li&gt;&#xA;&lt;li&gt;코드 재사용성 : 같은 설계 패턴을 여러 프로젝트에서 반복 사용가능&lt;/li&gt;&#xA;&lt;li&gt;코드 가독성/확장성/유지보수성 향상 : 공통된 구조/규약으로 코드의 이해와 확장 쉬워짐&lt;/li&gt;&#xA;&lt;li&gt;버그 감소&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;싱글톤-패턴&#34;&gt;&lt;strong&gt;싱글톤 패턴&lt;/strong&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%ec%8b%b1%ea%b8%80%ed%86%a4-%ed%8c%a8%ed%84%b4&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;하나의 클래스에 오직 하나의 인스턴스만 가지는 패턴&lt;br&gt;&#xA;프로그램 전체에서 이 인스턴스에 전역적으로 접근 가능 보장&lt;br&gt;&#xA;ex) 보통 DB 연결 모듈에 많이 사용&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

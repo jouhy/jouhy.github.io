@@ -6,6 +6,399 @@
     <description>Recent content in Tags on Jouhy&#39;s blog</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
+    <lastBuildDate>Sat, 06 Dec 2025 12:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Sat, 06 Dec 2025 12:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OperatorFusion</title>
+      <link>http://localhost:1313/tags/operatorfusion/</link>
+      <pubDate>Sat, 06 Dec 2025 12:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/operatorfusion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TVM</title>
+      <link>http://localhost:1313/tags/tvm/</link>
+      <pubDate>Sat, 06 Dec 2025 12:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/tvm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>딥러닝컴파일러</title>
+      <link>http://localhost:1313/tags/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/</link>
+      <pubDate>Sat, 06 Dec 2025 12:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>최적화</title>
+      <link>http://localhost:1313/tags/%EC%B5%9C%EC%A0%81%ED%99%94/</link>
+      <pubDate>Sat, 06 Dec 2025 12:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EC%B5%9C%EC%A0%81%ED%99%94/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>컴파일러</title>
+      <link>http://localhost:1313/tags/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/</link>
+      <pubDate>Sat, 06 Dec 2025 12:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI 반도체</title>
+      <link>http://localhost:1313/tags/ai-%EB%B0%98%EB%8F%84%EC%B2%B4/</link>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/ai-%EB%B0%98%EB%8F%84%EC%B2%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI 반도체 지원 컴파일러 동향</title>
+      <link>http://localhost:1313/tags/ai-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A7%80%EC%9B%90-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EB%8F%99%ED%96%A5/</link>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/ai-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A7%80%EC%9B%90-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EB%8F%99%ED%96%A5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>가설검정</title>
+      <link>http://localhost:1313/tags/%EA%B0%80%EC%84%A4%EA%B2%80%EC%A0%95/</link>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EA%B0%80%EC%84%A4%EA%B2%80%EC%A0%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>공분산</title>
+      <link>http://localhost:1313/tags/%EA%B3%B5%EB%B6%84%EC%82%B0/</link>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EA%B3%B5%EB%B6%84%EC%82%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>구간추정</title>
+      <link>http://localhost:1313/tags/%EA%B5%AC%EA%B0%84%EC%B6%94%EC%A0%95/</link>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EA%B5%AC%EA%B0%84%EC%B6%94%EC%A0%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>상관 관계</title>
+      <link>http://localhost:1313/tags/%EC%83%81%EA%B4%80-%EA%B4%80%EA%B3%84/</link>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EC%83%81%EA%B4%80-%EA%B4%80%EA%B3%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>상관계수</title>
+      <link>http://localhost:1313/tags/%EC%83%81%EA%B4%80%EA%B3%84%EC%88%98/</link>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EC%83%81%EA%B4%80%EA%B3%84%EC%88%98/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>심슨의 역설</title>
+      <link>http://localhost:1313/tags/%EC%8B%AC%EC%8A%A8%EC%9D%98-%EC%97%AD%EC%84%A4/</link>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EC%8B%AC%EC%8A%A8%EC%9D%98-%EC%97%AD%EC%84%A4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>알고리즘</title>
+      <link>http://localhost:1313/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</link>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>이변량 데이터</title>
+      <link>http://localhost:1313/tags/%EC%9D%B4%EB%B3%80%EB%9F%89-%EB%8D%B0%EC%9D%B4%ED%84%B0/</link>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EC%9D%B4%EB%B3%80%EB%9F%89-%EB%8D%B0%EC%9D%B4%ED%84%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>인과 관계</title>
+      <link>http://localhost:1313/tags/%EC%9D%B8%EA%B3%BC-%EA%B4%80%EA%B3%84/</link>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EC%9D%B8%EA%B3%BC-%EA%B4%80%EA%B3%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>점추정</title>
+      <link>http://localhost:1313/tags/%EC%A0%90%EC%B6%94%EC%A0%95/</link>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EC%A0%90%EC%B6%94%EC%A0%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>정렬</title>
+      <link>http://localhost:1313/tags/%EC%A0%95%EB%A0%AC/</link>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EC%A0%95%EB%A0%AC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>추정</title>
+      <link>http://localhost:1313/tags/%EC%B6%94%EC%A0%95/</link>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EC%B6%94%EC%A0%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>통계적 추론</title>
+      <link>http://localhost:1313/tags/%ED%86%B5%EA%B3%84%EC%A0%81-%EC%B6%94%EB%A1%A0/</link>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%ED%86%B5%EA%B3%84%EC%A0%81-%EC%B6%94%EB%A1%A0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DB</title>
+      <link>http://localhost:1313/tags/db/</link>
+      <pubDate>Tue, 16 Sep 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/db/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>데이터베이스</title>
+      <link>http://localhost:1313/tags/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/</link>
+      <pubDate>Tue, 16 Sep 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TCP/IP 4계층 모델</title>
+      <link>http://localhost:1313/tags/tcp/ip-4%EA%B3%84%EC%B8%B5-%EB%AA%A8%EB%8D%B8/</link>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/tcp/ip-4%EA%B3%84%EC%B8%B5-%EB%AA%A8%EB%8D%B8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>네트워크 기기</title>
+      <link>http://localhost:1313/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EA%B8%B0/</link>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EA%B8%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>네트워크 기초</title>
+      <link>http://localhost:1313/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88/</link>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>메모리</title>
+      <link>http://localhost:1313/tags/%EB%A9%94%EB%AA%A8%EB%A6%AC/</link>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EB%A9%94%EB%AA%A8%EB%A6%AC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>메모리 계층</title>
+      <link>http://localhost:1313/tags/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B3%84%EC%B8%B5/</link>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B3%84%EC%B8%B5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>메모리 관리</title>
+      <link>http://localhost:1313/tags/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC/</link>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>병목현상</title>
+      <link>http://localhost:1313/tags/%EB%B3%91%EB%AA%A9%ED%98%84%EC%83%81/</link>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EB%B3%91%EB%AA%A9%ED%98%84%EC%83%81/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>지연시간</title>
+      <link>http://localhost:1313/tags/%EC%A7%80%EC%97%B0%EC%8B%9C%EA%B0%84/</link>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EC%A7%80%EC%97%B0%EC%8B%9C%EA%B0%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>처리량</title>
+      <link>http://localhost:1313/tags/%EC%B2%98%EB%A6%AC%EB%9F%89/</link>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EC%B2%98%EB%A6%AC%EB%9F%89/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>컴퓨터 요소</title>
+      <link>http://localhost:1313/tags/%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%9A%94%EC%86%8C/</link>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%9A%94%EC%86%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>토폴로지</title>
+      <link>http://localhost:1313/tags/%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80/</link>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MVC 패턴</title>
+      <link>http://localhost:1313/tags/mvc-%ED%8C%A8%ED%84%B4/</link>
+      <pubDate>Thu, 07 Aug 2025 17:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/mvc-%ED%8C%A8%ED%84%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MVP 패턴</title>
+      <link>http://localhost:1313/tags/mvp-%ED%8C%A8%ED%84%B4/</link>
+      <pubDate>Thu, 07 Aug 2025 17:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/mvp-%ED%8C%A8%ED%84%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MVVM 패턴</title>
+      <link>http://localhost:1313/tags/mvvm-%ED%8C%A8%ED%84%B4/</link>
+      <pubDate>Thu, 07 Aug 2025 17:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/mvvm-%ED%8C%A8%ED%84%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>노출 모듈 패턴</title>
+      <link>http://localhost:1313/tags/%EB%85%B8%EC%B6%9C-%EB%AA%A8%EB%93%88-%ED%8C%A8%ED%84%B4/</link>
+      <pubDate>Thu, 07 Aug 2025 17:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EB%85%B8%EC%B6%9C-%EB%AA%A8%EB%93%88-%ED%8C%A8%ED%84%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>디자인 패턴</title>
+      <link>http://localhost:1313/tags/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/</link>
+      <pubDate>Thu, 07 Aug 2025 17:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>싱글톤 패턴</title>
+      <link>http://localhost:1313/tags/%EC%8B%B1%EA%B8%80%ED%86%A4-%ED%8C%A8%ED%84%B4/</link>
+      <pubDate>Thu, 07 Aug 2025 17:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EC%8B%B1%EA%B8%80%ED%86%A4-%ED%8C%A8%ED%84%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>옵저버 패턴</title>
+      <link>http://localhost:1313/tags/%EC%98%B5%EC%A0%80%EB%B2%84-%ED%8C%A8%ED%84%B4/</link>
+      <pubDate>Thu, 07 Aug 2025 17:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EC%98%B5%EC%A0%80%EB%B2%84-%ED%8C%A8%ED%84%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>전략 패턴</title>
+      <link>http://localhost:1313/tags/%EC%A0%84%EB%9E%B5-%ED%8C%A8%ED%84%B4/</link>
+      <pubDate>Thu, 07 Aug 2025 17:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EC%A0%84%EB%9E%B5-%ED%8C%A8%ED%84%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>팩토리 패턴</title>
+      <link>http://localhost:1313/tags/%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%8C%A8%ED%84%B4/</link>
+      <pubDate>Thu, 07 Aug 2025 17:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%8C%A8%ED%84%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>프록시 서버</title>
+      <link>http://localhost:1313/tags/%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%84%9C%EB%B2%84/</link>
+      <pubDate>Thu, 07 Aug 2025 17:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%84%9C%EB%B2%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>프록시 패턴</title>
+      <link>http://localhost:1313/tags/%ED%94%84%EB%A1%9D%EC%8B%9C-%ED%8C%A8%ED%84%B4/</link>
+      <pubDate>Thu, 07 Aug 2025 17:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%ED%94%84%EB%A1%9D%EC%8B%9C-%ED%8C%A8%ED%84%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>회고</title>
+      <link>http://localhost:1313/tags/%ED%9A%8C%EA%B3%A0/</link>
+      <pubDate>Tue, 03 Jun 2025 18:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%ED%9A%8C%EA%B3%A0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github</title>
+      <link>http://localhost:1313/tags/github/</link>
+      <pubDate>Tue, 05 Dec 2023 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CNN</title>
+      <link>http://localhost:1313/tags/cnn/</link>
+      <pubDate>Fri, 01 Dec 2023 18:30:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/cnn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>One-Stage Detector</title>
+      <link>http://localhost:1313/tags/one-stage-detector/</link>
+      <pubDate>Fri, 01 Dec 2023 18:30:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/one-stage-detector/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Two-Stage Detector</title>
+      <link>http://localhost:1313/tags/two-stage-detector/</link>
+      <pubDate>Fri, 01 Dec 2023 18:30:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/two-stage-detector/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>U-Net</title>
+      <link>http://localhost:1313/tags/u-net/</link>
+      <pubDate>Fri, 01 Dec 2023 18:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/u-net/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adam</title>
+      <link>http://localhost:1313/tags/adam/</link>
+      <pubDate>Mon, 20 Nov 2023 21:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/adam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gradient Descent Methods</title>
+      <link>http://localhost:1313/tags/gradient-descent-methods/</link>
+      <pubDate>Mon, 20 Nov 2023 21:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/gradient-descent-methods/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Momentum</title>
+      <link>http://localhost:1313/tags/momentum/</link>
+      <pubDate>Mon, 20 Nov 2023 21:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/momentum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RMSprop</title>
+      <link>http://localhost:1313/tags/rmsprop/</link>
+      <pubDate>Mon, 20 Nov 2023 21:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/rmsprop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SGD</title>
+      <link>http://localhost:1313/tags/sgd/</link>
+      <pubDate>Mon, 20 Nov 2023 21:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/sgd/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

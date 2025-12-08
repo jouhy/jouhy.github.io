@@ -1,11 +1,194 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Jouhy&#39;s blog</title>
+    <title>Jouhy&#39;s blog</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on Jouhy&#39;s blog</description>
+    <description>Recent content on Jouhy&#39;s blog</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
+    <lastBuildDate>Sat, 06 Dec 2025 12:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/categories/ai/</link>
+      <pubDate>Sat, 06 Dec 2025 12:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compiler</title>
+      <link>http://localhost:1313/categories/compiler/</link>
+      <pubDate>Sat, 06 Dec 2025 12:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/compiler/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Algorithm</title>
+      <link>http://localhost:1313/categories/algorithm/</link>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/algorithm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CS</title>
+      <link>http://localhost:1313/categories/cs/</link>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/cs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Math</title>
+      <link>http://localhost:1313/categories/math/</link>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/math/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistics</title>
+      <link>http://localhost:1313/categories/statistics/</link>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/statistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Database</title>
+      <link>http://localhost:1313/categories/database/</link>
+      <pubDate>Tue, 16 Sep 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/database/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network</title>
+      <link>http://localhost:1313/categories/network/</link>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OS</title>
+      <link>http://localhost:1313/categories/os/</link>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/os/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design Pattern</title>
+      <link>http://localhost:1313/categories/design-pattern/</link>
+      <pubDate>Thu, 07 Aug 2025 17:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/design-pattern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ETC</title>
+      <link>http://localhost:1313/categories/etc/</link>
+      <pubDate>Tue, 03 Jun 2025 18:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/etc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Retrospection</title>
+      <link>http://localhost:1313/categories/retrospection/</link>
+      <pubDate>Tue, 03 Jun 2025 18:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/retrospection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github</title>
+      <link>http://localhost:1313/categories/github/</link>
+      <pubDate>Tue, 05 Dec 2023 16:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer Vision</title>
+      <link>http://localhost:1313/categories/computer-vision/</link>
+      <pubDate>Fri, 01 Dec 2023 18:30:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DL Basic</title>
+      <link>http://localhost:1313/categories/dl-basic/</link>
+      <pubDate>Fri, 24 Nov 2023 19:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/dl-basic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Algorithm</title>
+      <link>http://localhost:1313/categories/cs/algorithm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/cs/algorithm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compiler</title>
+      <link>http://localhost:1313/categories/ai/compiler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ai/compiler/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer Vision</title>
+      <link>http://localhost:1313/categories/ai/computer-vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ai/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Database</title>
+      <link>http://localhost:1313/categories/cs/database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/cs/database/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design Pattern</title>
+      <link>http://localhost:1313/categories/cs/design-pattern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/cs/design-pattern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DL Basic</title>
+      <link>http://localhost:1313/categories/ai/dl-basic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ai/dl-basic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>github</title>
+      <link>http://localhost:1313/categories/etc/github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/etc/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network</title>
+      <link>http://localhost:1313/categories/cs/network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/cs/network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OS</title>
+      <link>http://localhost:1313/categories/cs/os/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/cs/os/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Retrospection</title>
+      <link>http://localhost:1313/categories/etc/retrospection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/etc/retrospection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistics</title>
+      <link>http://localhost:1313/categories/math/statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/math/statistics/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
