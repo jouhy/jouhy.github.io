@@ -2,3 +2,6 @@
 	path = content
 	url = https://github.com/jouhy/jouhy.github.io
 	branch = content
+[submodule "themes/hugo-book-jouhy"]
+	path = themes/hugo-book-jouhy
+	url = https://github.com/jouhy/hugo-book-jouhy.git
