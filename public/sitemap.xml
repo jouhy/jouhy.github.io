@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-12-06T12:00:00+09:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/2025-12-06-operatorfusion/</loc>
     <lastmod>2025-12-06T12:00:00+09:00</lastmod>
   </url><url>
@@ -39,13 +42,16 @@
     <lastmod>2025-12-06T12:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/2025-11-20-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%EB%8F%99%ED%96%A5/</loc>
-    <lastmod>2025-11-20T12:00:00+09:00</lastmod>
+    <lastmod>2025-11-20T02:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ai-%EB%B0%98%EB%8F%84%EC%B2%B4/</loc>
-    <lastmod>2025-11-20T12:00:00+09:00</lastmod>
+    <lastmod>2025-11-20T02:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ai-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A7%80%EC%9B%90-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EB%8F%99%ED%96%A5/</loc>
-    <lastmod>2025-11-20T12:00:00+09:00</lastmod>
+    <lastmod>2025-11-20T02:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about-time/</loc>
+    <lastmod>2025-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/2025-10-22-%EC%9D%B4%EB%B3%80%EB%9F%89%EB%8D%B0%EC%9D%B4%ED%84%B0/</loc>
     <lastmod>2025-10-14T16:00:00+09:00</lastmod>
@@ -209,13 +215,7 @@
     <loc>http://localhost:1313/tags/%ED%94%84%EB%A1%9D%EC%8B%9C-%ED%8C%A8%ED%84%B4/</loc>
     <lastmod>2025-08-07T17:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-06-03T18:00:00+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/etc/</loc>
-    <lastmod>2025-06-03T18:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/etc/retrospection/2025-06-03-5%EC%9B%94%ED%9A%8C%EA%B3%A0/</loc>
     <lastmod>2025-06-03T18:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/2025-06-03-5%EC%9B%94%ED%9A%8C%EA%B3%A0/</loc>
@@ -227,20 +227,11 @@
     <loc>http://localhost:1313/tags/%ED%9A%8C%EA%B3%A0/</loc>
     <lastmod>2025-06-03T18:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/etc/retrospection/2025-05-11-4%EC%9B%94%ED%9A%8C%EA%B3%A0/</loc>
-    <lastmod>2025-05-11T01:00:00+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/2025-05-11-4%EC%9B%94%ED%9A%8C%EA%B3%A0/</loc>
     <lastmod>2025-05-11T01:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/etc/retrospection/2025-04-07-3%EC%9B%94%ED%9A%8C%EA%B3%A0/</loc>
-    <lastmod>2025-04-07T21:00:00+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/2025-04-07-3%EC%9B%94%ED%9A%8C%EA%B3%A0/</loc>
     <lastmod>2025-04-07T21:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/etc/retrospection/2025-02-27-2%EC%9B%94-%ED%9A%8C%EA%B3%A0/</loc>
-    <lastmod>2025-02-27T16:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/2025-02-27-2%EC%9B%94-%ED%9A%8C%EA%B3%A0/</loc>
     <lastmod>2025-02-27T16:00:00+09:00</lastmod>
@@ -298,8 +289,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/sgd/</loc>
     <lastmod>2023-11-20T21:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/aboutme/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/cs/algorithm/</loc>
   </url><url>
