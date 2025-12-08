@@ -3,7 +3,7 @@ title: Two-stage detector vs One-stage detector
 # author:
 #   name: jouhy
 #   link: https://github.com/univdev
-date: "2023-12-01T18:30:00+0900"
+date: "2023-12-01T18:30:00+09:00"
 categories: ["AI", 'Computer Vision']
 tags: [CNN, two-stage detector, one-stage detector]
 math: true

@@ -3,7 +3,7 @@ title: "[AI 컴파일러] Operator Fusion 기법 with TVM"
 # author:
 #   name: jouhy
 #   link: https://github.com/univdev
-date: "2025-12-06T12:00:00+0900"
+date: "2025-12-06T12:00:00+09:00"
 layout: "post"
 categories: ["AI", "Compiler"]
 tags: ["AI", "컴파일러", "TVM", "딥러닝컴파일러", "최적화", "OperatorFusion"]     # TAG names should always be lowercase

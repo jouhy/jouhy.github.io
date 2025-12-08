@@ -3,7 +3,7 @@ title: Gradient Descent Methods
 # author:
 #   name: jouhy
 #   link: https://github.com/univdev
-date: "2023-11-20T21:00:00+0900"
+date: "2023-11-20T21:00:00+09:00"
 categories: [AI, DL Basic]
 tags: [Gradient Descent Methods, SGD,Momentum, RMSprop, Adam]     # TAG names should always be lowercase
 math: true
