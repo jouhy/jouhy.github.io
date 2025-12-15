@@ -56,9 +56,8 @@ order: 4
           white-space: normal;"
           >
           <a href="https://github.com/rajatbh21/AAMLA" class="detail-link">Github <i class="fas fa-external-link-alt"></i></a>
-          <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.175393689.97544984" class="detail-link">Paper <i class="fas fa-external-link-alt"></i></a>
           <span> | </span>
-          <a href="https://drive.google.com/file/d/1qdPlcTX1fsvrIc15ys1ztJlF6d-XwCet/view?usp=sharing" class="paper-link">Paper <i class="fas fa-external-link-alt"></i></a><br>
+          <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.175393689.97544984" class="detail-link">Paper <i class="fas fa-external-link-alt"></i></a><br>
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" alt="linux">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="python">
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="pytorch">
