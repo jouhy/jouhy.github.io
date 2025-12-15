@@ -1,7 +1,3 @@
-[submodule "content"]
-	path = content
-	url = https://github.com/jouhy/jouhy.github.io
-	branch = content
-[submodule "themes/hugo-book-jouhy"]
-	path = themes/hugo-book-jouhy
-	url = https://github.com/jouhy/hugo-book-jouhy.git
+[submodule "assets/lib"]
+	path = assets/lib
+	url = https://github.com/cotes2020/chirpy-static-assets.git
